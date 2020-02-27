@@ -1,4 +1,13 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Sharone Márquez, A01746940
+# Calcular el costo total de una de una comida en un restaurante
 
-# Escribe tu programa después de esta línea.
+T= int(input("Teclea el costo de su comida: "))
+
+I= T*.16
+P= T*.13
+
+TP= T+I+P
+
+print("Propina: ","$"," %.2f" % (P))
+print("IVA: ","$"," %.2f" % (I))
+print("Total a pagar: ","$"," %.2f" % (TP))

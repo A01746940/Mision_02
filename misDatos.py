@@ -1,4 +1,14 @@
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Sharone Márquez, A01746940
+# Escribir un programa que demuestre tu información
 
-# Escribe tu programa después de esta línea.
+print("""Nombre:
+Sharone Márquez""")
+print("""Matrícula:
+A01746940""")
+print("""Carrera:
+LAD""")
+print("""Escuela de procedencia:
+UVM""")
+print("""Descripción:
+Me gusta leer y dibijar, también escuchar música y pasar el rato sola.""")
+      
